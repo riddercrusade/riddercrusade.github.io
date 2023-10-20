@@ -2,7 +2,7 @@
 title: Ridder Crusade 2023
 subtitle: A Narrative Campaign of WH40k
 description: This site describes and tracks a narrative crusade for Warhammer 40k
-baseurl: "/crusade" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 
 # homepage tiles
